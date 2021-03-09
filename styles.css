@@ -14,11 +14,18 @@ html {
 
 
 .listings {
-    color: #7F5232;
+    color: purple;
 }
 
-.col-3_side{
-    width:100%;
-    color: white;
-    background-color:dimgrey;
+.maincontainer {
+    width: 60vw;
+    margin-left:20vw;
+    background-color:#eee;
+    padding:2em;
 }
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1413&q=80");
+    background-size: cover;
+}
+
